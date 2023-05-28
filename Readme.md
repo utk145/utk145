@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on NextJs 13<br>👯 I’m looking to collaborate on Web Dev and React Native Projects<br>🌱 I’m currently learning NextJs 13 and DSA<br>💬 Ask me about anything ;)<br>⚡ Fun fact: I like eating, binge watching, anime, podcasts, politics, poetry, and  interacting with new people <br> 📫 Reach me on utkarshs14.2002@gmail.com <br> 🛠️👨‍🔧 Currently building ...
+🔭 I’m currently working on NextJs 13<br>👯 I’m looking to collaborate on Web Dev and React Native Projects<br>🌱 I’m currently learning NextJs 13 and DSA<br>💬 Ask me about anything ;)<br>⚡ Fun fact: I like eating, binge watching, anime, podcasts, politics, poetry, and  interacting with new people <br> 📫 Reach me on utkarshs14.2002@gmail.com <br> 🛠️👨‍🔧 Currently building React Native Pomodoro App(***#Productivity***) 
 
 
 
