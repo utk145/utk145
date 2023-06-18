@@ -2,7 +2,7 @@
 ![main-head-1](https://github.com/utk145/utk145/assets/122993091/b5a4bef6-e123-45f2-98a2-04fd6f7c49f3)
 
 
-# 💫 About Me:
+# 💫 Current Me:
 🔭 I’m currently working on NextJs 13<br>👯 I’m looking to collaborate on Web Dev and React Native Projects<br>🌱 I’m currently learning NextJs 13 and DSA<br>💬 Ask me about anything ;)<br>⚡ Fun fact: I like eating, binge watching, anime, podcasts, politics, poetry, and  interacting with new people <br> 📫 Reach me on utkarshs14.2002@gmail.com <br> 🛠️👨‍🔧 Currently building Frontendmentor-challenge(Easy Bank Landing Page)
 
 
